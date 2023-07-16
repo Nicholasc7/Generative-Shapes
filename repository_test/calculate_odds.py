@@ -10,3 +10,5 @@ for x in range(1,11):
 print("Welcome to number calculator!")
 print('Odd List:', odd_list)
 print('Even List:', even_list)
+
+print("2 + 2 = 4")
